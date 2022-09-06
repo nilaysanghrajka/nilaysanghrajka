@@ -1,7 +1,7 @@
 - Hi, I’m @nilaysanghrajka
-- I’m interested in QA
-- I’m currently learning React, ISTQB and Pen Testing
-- I'm recently certified in AWS CCP
+- I’m interested in QA Engineering
+- I’m currently working on my ISTQB Certifications
+- I'm certified in AWS CCP
 
 
 <!---
